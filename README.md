@@ -12,7 +12,7 @@ When I'm not writing C/C++ or reading academic papers on consensus algorithms li
 - **Open Source:** Contributing to projects like the GNOME Characters Application (GNOME JavaScript) and exploring LLVM.
 - **Technical Writing:** Documenting my engineering deep-dives on Medium. Check out my latest: [_I wrote bi-directional tcp congestion control… and survived!_](https://meet-g.medium.com/i-wrote-bi-directional-tcp-congestion-control-and-survived-e88512e433c9).
 
-### 🛠️️ Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 
 - **Systems & Core:** C, C++, Rust, Go, Bash, Linux Systems Programming
 - **Application & Web:** Python, Java, JavaScript, Dart, Flutter, Next.js
@@ -25,16 +25,19 @@ When I'm not writing C/C++ or reading academic papers on consensus algorithms li
 - **Custom C Network Protocol:** Built a socket network protocol from scratch featuring a sliding window, selective repeat ACKs, and socket timeouts (transfers 177MB in ~9s).
 - **TradeChain:** A decentralized international trade platform leveraging Solidity smart contracts and Next.js.
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 ![Meet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meet-dharmesh-gandhi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meet-dharmesh-gandhi&layout=compact&theme=radical)
 
+**Commit Activity Graph**
+![Meet's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meet-dharmesh-gandhi&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&theme=react)
+
 ### 📫 Let's Connect
 
-- **Medium:** [@meet-g](https://medium.com/@meet-g)
-- **LinkedIn:** [Meet Gandhi](https://www.linkedin.com/in/meet-d-gandhi/)
-- **Email:** [meet.dhg@gmail.com](mailto:meet.dhg@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@meet-g)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-d-gandhi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meet.dhg@gmail.com)
 
 ---
 
