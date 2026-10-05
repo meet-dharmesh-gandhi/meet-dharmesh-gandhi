@@ -30,8 +30,8 @@ When I'm not writing C/C++ or reading academic papers on consensus algorithms li
 ![Meet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meet-dharmesh-gandhi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meet-dharmesh-gandhi&layout=compact&theme=radical)
 
-**Commit Activity Graph**
-![Meet's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meet-dharmesh-gandhi&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&theme=react)
+**Commit Activity & Streak**
+![Meet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meet-dharmesh-gandhi&theme=radical&hide_border=true)
 
 ### 📫 Let's Connect
 
