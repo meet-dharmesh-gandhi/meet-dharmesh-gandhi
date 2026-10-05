@@ -1,42 +1,34 @@
-# Hi, I'm Meet Gandhi 👋
+# 💫 About Me:
 
-**Computer Science Undergraduate @ Ahmedabad University | Systems Engineering Enthusiast**
+I am a software engineer with a strong focus on low-level systems, operating systems architecture, compiler design, and distributed systems.<br><br>What I'm Working On:<br>- **CodeArena:** Architecting a distributed code execution environment and cloud IDE backend in C, featuring process isolation, custom containerization, Cgroups, namespaces, and WebSocket integration.<br>- **Open Source:** Contributing to projects like the GNOME Characters Application (GNOME JavaScript) and exploring LLVM.<br>- **Technical Writing:** Documenting my engineering deep-dives on Medium. Check out my latest: [_I wrote bi-directional tcp congestion control… and survived!_](https://meet-g.medium.com/i-wrote-bi-directional-tcp-congestion-control-and-survived-e88512e433c9).<br>
 
-I am a software engineer with a strong focus on low-level systems, operating systems architecture, compiler design, and distributed systems. I have a builder's mindset—I prefer constructing software infrastructure, custom network protocols, and manual memory virtualization from scratch rather than relying exclusively on high-level library abstractions.
+## 🌐 Socials:
 
-When I'm not writing C/C++ or reading academic papers on consensus algorithms like Paxos and Raft, I'm serving as a Teaching Assistant (OOP & OS) or writing about system architecture.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meet-d-gandhi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@meet-g) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meet.dhg@gmail.com)
 
-### 🚀 What I'm Working On
+# 💻 Tech Stack:
 
-- **CodeArena:** Architecting a distributed code execution environment and cloud IDE backend in C, featuring process isolation, custom containerization, Cgroups, namespaces, and WebSocket integration.
-- **Open Source:** Contributing to projects like the GNOME Characters Application (GNOME JavaScript) and exploring LLVM.
-- **Technical Writing:** Documenting my engineering deep-dives on Medium. Check out my latest: [_I wrote bi-directional tcp congestion control… and survived!_](https://meet-g.medium.com/i-wrote-bi-directional-tcp-congestion-control-and-survived-e88512e433c9).
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=plastic&logo=apachehive&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=plastic&logo=nuxt.js&logoColor=#00DC82) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=plastic&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=plastic&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white)
 
-### 🛠 Tech Stack & Tools
+# 📊 GitHub Stats:
 
-- **Systems & Core:** C, C++, Rust, Go, Bash, Linux Systems Programming
-- **Application & Web:** Python, Java, JavaScript, Dart, Flutter, Next.js
-- **Blockchain & Web3:** Solidity, Polygon, IPFS
-- **Other:** MongoDB
+![](https://github-readme-stats.shion.dev/api?username=meet-dharmesh-gandhi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=meet-dharmesh-gandhi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=meet-dharmesh-gandhi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 📂 Featured Projects
+### 📊 Contribution Breakdown
 
-- **Any-Auth:** An open-source NPM library for managing robust front-end and back-end OAuth authentication flows.
-- **Custom C Network Protocol:** Built a socket network protocol from scratch featuring a sliding window, selective repeat ACKs, and socket timeouts (transfers 177MB in ~9s).
-- **TradeChain:** A decentralized international trade platform leveraging Solidity smart contracts and Next.js.
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meet-dharmesh-gandhi&theme=radical)
 
-### 📈 GitHub Stats & Activity
+### ✍️ Random Dev Quote
 
-![Meet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meet-dharmesh-gandhi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meet-dharmesh-gandhi&layout=compact&theme=radical)
-![Meet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meet-dharmesh-gandhi&theme=radical&hide_border=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 📫 Let's Connect
+### 🔝 Featured Engineering
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@meet-g)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-d-gandhi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meet.dhg@gmail.com)
+[![CodeArena](https://github-readme-stats.shion.dev/api/pin/?username=meet-dharmesh-gandhi&repo=CodeArena&theme=dark&hide_border=false)](https://github.com/meet-dharmesh-gandhi/CodeArena)
+[![Any-Auth](https://github-readme-stats.shion.dev/api/pin/?username=meet-dharmesh-gandhi&repo=Any-Auth&theme=dark&hide_border=false)](https://github.com/meet-dharmesh-gandhi/Any-Auth)
 
 ---
 
-_"Building from the ground up."_
+[![](https://komarev.com/ghpvc/?username=meet-dharmesh-gandhi&icon=1&color=blue)](https://visitcount.itsvg.in)
