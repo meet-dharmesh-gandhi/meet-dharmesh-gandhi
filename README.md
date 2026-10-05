@@ -27,8 +27,8 @@ When I'm not writing C/C++ or reading academic papers on consensus algorithms li
 
 ### 📈 GitHub Stats
 
-![Meet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Meet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meet-dharmesh-gandhi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meet-dharmesh-gandhi&layout=compact&theme=radical)
 
 ### 📫 Let's Connect
 
